@@ -1,7 +1,6 @@
 # Necessary imports
 import moviepy.editor as mp
 import speech_recognition as sr
-
 import argparse
 
 # Define command line argument(s)
@@ -37,17 +36,11 @@ def video_to_text(file_name):
           
 # Write textual data to a txt file
 def write_to_file(text):
-    with open("transcription.txt", mode="w") as f:
-        f.write("Text from video:")
-        f.write("\n")
-        f.write(text)
-        f.close()
+    with open("transcription.txt", "w") as f:
+        f.write("Text from the video: " + text)
     return f
 
-def main():
+if __name__ == "__main__":
     text = video_to_text(args.video_file)
     write_to_file(text)
     print("Successful transcription!")
-    
-if __name__ == "__main__":
-    main()
