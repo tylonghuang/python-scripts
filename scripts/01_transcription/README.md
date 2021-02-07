@@ -6,12 +6,10 @@ This repository contains a simple Python command line script that transcribes te
 
 ## Requirements
 
-- [Python](https://www.python.org/downloads)
-- [pip](https://pip.pypa.io/en/stable/)
 - [MoviePy](https://pypi.org/project/moviepy) to convert the video files to audio data
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition) which functions as a wrapper for multiple recognition APIs
 
-> **NOTE**: The requirements for this script were already included in the pipfile.
+> **NOTE**: The requirements for this script were already included in the environment.yml.
 
 ## Usage:
 
