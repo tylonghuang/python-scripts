@@ -1,12 +1,12 @@
 name: py-scripts
 channels:
-  - anaconda
   - conda-forge
+  - anaconda
   - defaults
 dependencies:
   - brotlipy=0.7.0
-  - ca-certificates=2020.10.14
-  - certifi=2020.6.20
+  - ca-certificates=2021.1.19
+  - certifi=2020.12.5
   - cffi=1.14.4
   - chardet=4.0.0
   - cryptography=3.3.1
@@ -29,6 +29,7 @@ dependencies:
   - numpy=1.20.0
   - olefile=0.46
   - openssl=1.1.1i
+  - pandas=1.2.1
   - pillow=8.1.0
   - pip=20.3.3
   - portaudio=19.6.0
@@ -38,7 +39,9 @@ dependencies:
   - pyopenssl=20.0.1
   - pysocks=1.7.1
   - python=3.7.9
+  - python-dateutil=2.8.1
   - python_abi=3.7
+  - pytz=2021.1
   - requests=2.25.1
   - setuptools=52.0.0
   - six=1.15.0
