@@ -8,6 +8,7 @@ A repository containing a set of python scripts that I find pretty helpful/inter
 
 - [**01_transcription**](scripts/01_transcription): Transcribes text from short video files
 - [**02_audio_listener**](scripts/02_audio_listener): Writes recognized microphone audio into text file
+- [**03_json_csv_converter**](scripts/03_json_csv_converter): Converts CSV/JSON files
 
 ## Requirements
 
