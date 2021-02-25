@@ -23,6 +23,3 @@ $ python transcription.py -v/--video-file <file_name>
 > **NOTE**: The video has to be in the same directory as the script.
 
 Have fun!
-___
-
-_For any inquiries or questions contact me under: lungnguyenhung@gmail.com_

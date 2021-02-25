@@ -26,7 +26,3 @@ $ python json2csv.py -f/--json-file <file_name>
 > **NOTE**: The file has to be in the same directory as the script. Provided sample files were randomly generated.
 
 Have fun!
-___
-
-_For any inquiries or questions contact me under: lungnguyenhung@gmail.com_
-

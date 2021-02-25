@@ -29,7 +29,3 @@ Stopping recording...
 > **NOTE**: Check the output.txt for more.
 
 Have fun!
-___
-
-_For any inquiries or questions contact me under: lungnguyenhung@gmail.com_
-

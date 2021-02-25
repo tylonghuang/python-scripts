@@ -16,4 +16,4 @@ with open(args.csv_file) as f:
 
 # Write to json file
 with open('output.json', 'w') as f:
-    json.dump(rows, f)
+    json.dump(rows, f, indent=2)
