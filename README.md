@@ -38,4 +38,4 @@ Thanks for reading and have fun!
 
 ___
 
-_For any inquiries or questions contact me under: lungnguyenhung@gmail.com_
+_For any inquiries or questions contact me under: long.ngyn@protonmail.com_
